@@ -4,7 +4,7 @@ An interactive Jenga game implemeted using Unity 3D.
 ## Running Instructions
 Open the project from Unity Editor and run the scene 'JengaGameScene' or build the game for your platform and run.
 
-## Video Walk though
+## Video Walkthrough
 
-[![Watch the video](https://img.youtube.com/vi/NiuDKztfFtE/default.jpg)](https://www.youtube.com/watch?v=NiuDKztfFtE)
+[![Watch the video](<img src="/full/path/to/image/file.jpg" alt="alt_text" width="200">)](https://www.youtube.com/watch?v=NiuDKztfFtE)
 
