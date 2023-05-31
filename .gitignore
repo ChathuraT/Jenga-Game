@@ -1,14 +1,5 @@
 Library/*
-Builds/*
+Build/*
 Temp/*
-*.sln
-*.csproj
-*.userprefs
-*.userprefs
-*.DS_Store
-obj/*
 Logs/*
-Packages/*
-.vscode/*
-.vs/*
-Assembly-CSharp*.csproj
+
