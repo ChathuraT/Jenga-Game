@@ -6,5 +6,5 @@ Open the project from Unity Editor and run the scene 'JengaGameScene' or build t
 
 ## Video Walkthrough
 
-[![Watch the video](<img src="/full/path/to/image/file.jpg" alt="alt_text" width="200">)](https://www.youtube.com/watch?v=NiuDKztfFtE)
+[<img src="https://img.youtube.com/vi/NiuDKztfFtE/default.jpg" alt="alt_text" width="300">](https://www.youtube.com/watch?v=NiuDKztfFtE)
 
